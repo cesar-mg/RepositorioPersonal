@@ -1,0 +1,37 @@
+.container
+{
+   display: flexbox; 
+   flex-flow: row wrap;
+   font-weight: bold;
+   text-align: center;
+   color: white;
+ }
+
+ #texto
+{
+  font-weight: normal;
+   text-align: justify;
+   
+ }
+
+ #texto2
+ {
+    font-weight: normal;
+    text-align: center;
+    
+  }
+
+  #fondo
+  {
+    background-color:rgb(70, 4, 4); 
+   }
+   #correo
+  {
+    
+    width: 100%;
+  }
+  #boton
+  {
+    width: 100%;
+    color: rgb(14, 13, 13);
+  }
